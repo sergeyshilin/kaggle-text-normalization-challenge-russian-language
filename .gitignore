@@ -1,5 +1,5 @@
 # Current repo to ignore
-data/*
+data/*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
